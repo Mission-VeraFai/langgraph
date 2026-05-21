@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h3>Low-level orchestration framework for building stateful agents</h3>
+  <h3>Low-level orchestration framework for building stateful agent</h3>
 </div>
 
 <div align="center">
