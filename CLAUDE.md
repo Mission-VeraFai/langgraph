@@ -1,4 +1,4 @@
-# AGENTS Instructions
+# AGENTS Instruction
 
 This repository is a monorepo. Each library lives in a subdirectory under `libs/`.
 
